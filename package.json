@@ -20,6 +20,10 @@
     "type": "git",
     "url": "https://github.com/aditimewada/blogApp.git"
   },
+  
+  "cacheDirectories": ["client/node_modules", "server/node_modules"],
+  "cacheDirectories": ["data"],
+  
   "author": "",
  
   "homepage": "https://github.com/aditimewada/blogApp"
