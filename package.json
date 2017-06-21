@@ -13,7 +13,6 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
   "repository": {
@@ -21,8 +20,6 @@
     "url": "https://github.com/aditimewada/blogApp.git"
   },
   "author": "",
-  "bugs": {
-    "url": "https://github.com/aditimewada/blogApp/issues"
-  },
+ 
   "homepage": "https://github.com/aditimewada/blogApp"
 }
